@@ -2,4 +2,5 @@
 
 ## 目錄
 
+- [聲調及連續變調](tones.md)
 - [入聲字](the-entering-tone.md)
