@@ -1,2 +1,5 @@
-# southwest-lu-dialect
-A rough description of southwest Lu dialect of Chinese
+# 中原官話 - 菏澤方言
+
+## 目錄
+
+- [入聲字](the-entering-tone.md)
